@@ -5,6 +5,7 @@ import StatusBar from "src/components/StatusBar";
 function Other(): ReactElement {
   return (
     <View>
+      
       <StatusBar />
     </View>
   );
